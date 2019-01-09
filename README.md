@@ -1,4 +1,4 @@
-# Vue+Vuex实现的简单demo
+# Vue+Vuex实现的简单demo:https://cangdu.org/happyfri/
 
 > 刚入门Vue，利用Vue+Vuex实现的简单demo，逻辑也较简单，搞清楚组件间的传值，对做项目很有帮助。
 
