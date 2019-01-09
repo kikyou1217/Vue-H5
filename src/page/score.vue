@@ -33,7 +33,7 @@
         created(){
             this.getScore();
             this.getTips();
-            document.body.style.backgroundImage = 'url(/static/img/4-1.4c4bb05.jpg)';
+            document.body.style.backgroundImage = 'url(../images/4-1.jpg)';
         },
         methods:{
              //获取分数，实际上是要遍历rightAnswer及answerid

@@ -93,7 +93,7 @@
                 //初始化信息
                 if(this.fatherComponent == 'home') {
                     this.initializeData();
-                    document.body.style.backgroundImage = 'url(/static/img/1-1.a92218b.jpg)';
+                    document.body.style.backgroundImage = 'url(../images/1-1.jpg)';
 		        }
             }
     }
